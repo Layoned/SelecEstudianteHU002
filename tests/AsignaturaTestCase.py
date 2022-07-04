@@ -120,7 +120,7 @@ class AsignaturaTestCase ( unittest.TestCase ) :
 
     def test_verificar_almacenamiento_agregar_asignatura(self):
         '''Verifica que al almacenar los datos queden guardados en el almacenamiento'''
-        resultado = self.gestionAsignatura.agregar_asignatura(nombreAsignatura="Pruebas de software")
+        resultado = self.gestionAsigntura.agregar_asignatura(nombreAsignatura="Pruebas de software")
 
         self.session = Session()
         asignatura = self.session.query(Asignatura).filter(Asignatura.nombreAsignatura == "Pruebas de software").first()
