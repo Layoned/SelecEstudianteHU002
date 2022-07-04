@@ -1,13 +1,14 @@
 # Proyecto KIHEDOVI
 ## Módulo SeleccionEstudiante
-* Descripción *
+** Descripción **
 El modúlo tiene como objetivo seleccionar un grupo o estudinate de un grupo.
-Apellidos y nombres | Rol
+Integrante | Apellidos y nombres | 
 ------------------- | ---
-Chavez Perez Hector | Dueño del producto
-Muñico Tadeo Layoned | Scrum Master
-Soto Montes Jesús | 
-Zegarra Talaverano Jeffry Aarón | 
+1 | Chavez Perez Hector 
+2 | Muñico Tadeo Layoned |
+3 | Rivera Varje Mishell |
+4 |Soto Montes Jesús | 
+5 |Zegarra Talaverano Jeffry Aarón | 
 
 
                                       ITEM UNO
